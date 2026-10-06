@@ -1,0 +1,8 @@
+# Executaveis e arquivos de compilacao
+bin/
+*.exe
+*.o
+*.out
+*.dev
+*.layout
+*.win
