@@ -59,7 +59,14 @@ operadores, estruturas condicionais e estruturas de repetição).
 | `e34_sistema_vendas.c` | 34 - Sistema de vendas |
 | `e35_sistema_academico.c` | 35 - Sistema acadêmico |
 
-Todos os arquivos ficam na pasta `src/`.
+## Desafio Final - Controle de estoque
+
+| Arquivo | Descrição |
+|---|---|
+| [`desafio-final/DESAFIO_FINAL.md`](desafio-final/DESAFIO_FINAL.md) | Descrição do problema, entradas, processamento, saídas, pseudocódigo, fluxogramas, teste de mesa (5 cenários) e explicação da solução |
+| `src/desafio_final_controle_estoque.c` | Programa em C do controle de estoque (cadastro, entrada, saída, listagem e relatório) |
+
+Todos os arquivos de exercícios ficam na pasta `src/`.
 
 ## Como compilar e executar
 
